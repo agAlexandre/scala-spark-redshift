@@ -1,0 +1,9 @@
+[debug] Packaging C:\Users\User\IdeaProjects\ec2\target\scala-2.11\ec2_2.11-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	ec2
+[debug] 	  C:\Users\User\IdeaProjects\ec2\target\scala-2.11\classes\ec2
+[debug] 	ec2\sparkConf$.class
+[debug] 	  C:\Users\User\IdeaProjects\ec2\target\scala-2.11\classes\ec2\sparkConf$.class
+[debug] 	ec2\sparkConf.class
+[debug] 	  C:\Users\User\IdeaProjects\ec2\target\scala-2.11\classes\ec2\sparkConf.class
+[debug] Done packaging.
